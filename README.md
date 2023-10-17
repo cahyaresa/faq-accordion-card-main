@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - FAQ accordion card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+- [Frontend Mentor - FAQ accordion card solution](#frontend-mentor---faq-accordion-card-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
