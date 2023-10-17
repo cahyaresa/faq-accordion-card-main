@@ -135,8 +135,9 @@ footer {
     display: block;
     position: absolute;
     z-index: 3;
-    left: -8%;
-    top: 45%;
+    left: -6%;
+    top: 48%;
+    width: 12%;
   }
   .container .faq_wrapper {
     width: 80%;
@@ -144,11 +145,12 @@ footer {
     background: white;
     border-radius: 1.2rem;
     position: relative;
+    justify-content: space-between;
   }
 
   .container .faq_wrapper .faq_images {
-    flex: 1 1 50%;
-    max-width: 50%;
+    flex: 1 1 30%;
+    max-width: 30%;
     flex-direction: row;
     direction: rtl;
     margin: 0;
@@ -157,7 +159,7 @@ footer {
   }
 
   .container .faq_wrapper .faq_images .main-images img {
-    width: 135%;
+    width: 140%;
   }
 
   .container .faq_wrapper .faq_images .bg-layer {
