@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/cahyaresa/qr-code-component-main)
-- Live Site URL: (https://qr-code-component-main-pi-brown.vercel.app/)
+- Solution URL: (https://github.com/cahyaresa/faq-accordion-card-main)
+- Live Site URL: (https://faq-accordion-card-main-sage-two.vercel.app/)
 
 ## My process
 

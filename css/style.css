@@ -19,6 +19,9 @@ body {
   align-items: center;
 }
 
+.container .faq_wrapper .box-desktop {
+  display: none;
+}
 .container .faq_wrapper {
   width: 85%;
   margin: 0 auto;
@@ -128,12 +131,19 @@ footer {
     align-content: center;
     height: 100vh;
   }
+  .container .faq_wrapper .box-desktop {
+    display: block;
+    position: absolute;
+    z-index: 3;
+    left: -8%;
+    top: 45%;
+  }
   .container .faq_wrapper {
     width: 80%;
     display: flex;
     background: white;
     border-radius: 1.2rem;
-    overflow: clip;
+    position: relative;
   }
 
   .container .faq_wrapper .faq_images {
@@ -142,10 +152,12 @@ footer {
     flex-direction: row;
     direction: rtl;
     margin: 0;
+    padding: 5%;
+    overflow: clip;
   }
 
   .container .faq_wrapper .faq_images .main-images img {
-    width: 110%;
+    width: 135%;
   }
 
   .container .faq_wrapper .faq_images .bg-layer {
@@ -159,6 +171,6 @@ footer {
   .container .faq_wrapper .faq {
     flex: 1 1 50%;
     max-width: 50%;
-    padding: 5% 10%;
+    padding: 5%;
   }
 }
